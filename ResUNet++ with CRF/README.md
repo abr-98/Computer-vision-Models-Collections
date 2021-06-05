@@ -2,7 +2,7 @@
 
 The ResUNet++ is proposed in the paper: ResUNet++: An Advanced Architecture for Medical Image Segmentation. The authors extended the proposed idea using Augmentation as preprocessing and application of Conditional Random Fields (CRF) as a post processing measure.
 
-![Arch](https://github.com/DebeshJha/ResUNetPlusPlus)
+![Arch](https://raw.githubusercontent.com/DebeshJha/ResUNetPlusPlus/master/Resunet%2B%2B.png)
 
 References: 
 
@@ -11,4 +11,3 @@ References:
 3. https://github.com/DebeshJha/ResUNetPlusPlus-with-CRF-and-TTA
 4. https://github.com/sadeepj/crfasrnn_keras
 5. https://medium.com/@ihor.shylo/improving-performance-of-image-segmentation-with-conditional-random-fields-crf-8b93f7db396c
-6. 
