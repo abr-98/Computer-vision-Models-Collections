@@ -17,7 +17,7 @@ Convolutional Block Attention Module module focuses on attention to features. Th
 
 References:
 
-1.https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf
+1. https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf
 2. https://arxiv.org/pdf/1611.05594.pdf
 3. https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/
 4. https://sh-tsang.medium.com/reading-cbam-convolutional-block-attention-module-image-classification-ddbaf10f7430
